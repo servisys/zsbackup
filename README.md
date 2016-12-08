@@ -15,3 +15,7 @@ The user is very simple
 - for execution ./zsbackup.sh
 
 You can schedule with crontab if you want
+
+# Contributors #
+- Matteo temporini and Servisys https://www.servisys.it
+- based on the script of LHammonds https://vwiki.co.uk/Zimbra_FOSS_User_Backup
